@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+/* .profile-content{
+    background-color: white;
+} */
+.data, .editForm{
+    background-color: #ffffff;
+    padding: 20px;
+    /* background-color: white; */
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.main-panel {
+    position: absolute !important;
+    top: 61px;
+    right: 0px;
+}
+.edit-icon{
+    color: #0e0d51;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.5px solid #28267d;
+    padding: 15px 0px;
+    text-align: right;
+}
+.box h5{
+    text-transform: capitalize;
+    color: #666;
+}
+.box:last-of-type{
+    border: none;
+}
+.box i{
+    font-size: 30px;
+}
+.editForm{
+    display: none;
+    text-align: right;
+    border: 1px solid #999;
+    /* margin-bottom: 300px!important; */
+}
+.editForm .edit{
+    width: 100%;
+    outline: none;
+    border-color: lightgray;
+    border-width: 1px;
+    padding: 7px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.editForm .edit::placeholder{
+    color: #999;
+    text-align: right;
+}
+.editForm .edit:focus{
+    text-align: right;
+}
+.editForm :is(#saveBtn, #cancelBtn){
+    padding: 5px 20px;
+    border: none;
+    font-size: x-large;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.editForm #saveBtn{
+    background-color: #0e0d51;
+    color: white;
+}
+.editForm #cancelBtn{
+    background-color: white;
+    border: 1px solid #0e0d51;
+    color:#0e0d51;
+}
+.img-profile {
+    border-radius: 50%;
+    margin-top: 70px;
+}

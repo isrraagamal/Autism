@@ -1,0 +1,82 @@
+h2{
+    color: white;
+   }
+.gifhy-div{
+  width: 150%;
+  height: 350px;
+  background-color: #e1fa87;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.category-title{
+ color: brown;
+ text-align: right!important;
+}
+.exercise-div{
+width: 100%;
+border-radius: 20px;
+height: 170px;
+}
+.exercise-div:hover{
+opacity: 0.95;
+box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+padding: 3px;
+}
+.exercise-img{
+width: 95%;
+}
+.exercise-animal{
+background-color: coral;
+}
+.exercise-fish{
+background-color: rgb(231, 164, 231);
+}
+.exercise-fruit{
+background-color: rgb(137, 206, 194);
+}
+.exercise-vegetable{
+background-color: rgb(69, 236, 158);
+}
+.exercise-vegetable img{
+width: 68%;
+}
+.exercise-food{
+background-color: rgb(64, 156, 80);
+}
+.exercise-color{
+background-color: rgb(231, 200, 164);
+}
+.exercise-square{
+background-color: rgb(100, 201, 231);
+}
+.exercise-number{
+background-color: rgb(86, 143, 165);
+}
+.exercise-number img{
+width: 70%;
+}
+.exercise-body{
+background-color: rgb(231, 122, 122);
+}
+.exercise-transportation{
+background-color: rgb(202, 133, 223);
+}
+.exercise-job{
+background-color: rgb(247, 198, 108);
+}
+.exercise-home{
+background-color: rgb(153, 190, 204);
+}
+.gif{
+width: 40%;
+}
+.gifhy-div{
+    background-image: url("./images/storyImages/13.jpg")!important;
+
+}  
+.main-panel {
+  position: absolute !important;
+  top: 61px;
+  right: 0px;
+}

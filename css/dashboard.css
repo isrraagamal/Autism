@@ -1,0 +1,22 @@
+/* dashboard */
+.main-panel {
+    position: absolute !important;
+    top: 61px;
+    right: 0px;
+}
+.dash-icons{
+    display: flex;
+    justify-content:space-between;
+    background-image: linear-gradient(to right, rgba(0,0,0,0.4), rgba(0,0,0,0.4));
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.dash-icons a{
+    color: white;
+    text-decoration: none;
+}
+.dash-icons:hover{
+    background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    transition: all 0.5s!important;
+}

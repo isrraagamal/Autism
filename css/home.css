@@ -1,0 +1,11 @@
+.homeBg{
+    background-color: rgb(131, 176, 238)!important;
+}
+.card-people{
+    background-color: coral!important;
+}
+.main-panel {
+    position: absolute !important;
+    top: 61px;
+    right: 0px;
+}

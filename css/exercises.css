@@ -1,0 +1,105 @@
+h2{
+    color: white;
+}
+a:hover{
+  text-decoration: none;
+}
+.gifhy-div{
+  width: 150%;
+  height: 350px;
+  background-color: #e1fa87;
+  text-align: center;
+  border-radius: 20px;
+}
+.main-panel {
+  position: absolute !important;
+  top: 61px;
+  right: 0px;
+}
+.gif{
+width: 40%;
+}
+.category-title{
+ color: brown;
+ text-align: right!important;
+}
+.exercise-div{
+width: 100%;
+border-radius: 20px;
+height: 170px;
+}
+.exercise-div:hover{
+opacity: 0.95;
+box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+padding: 3px;
+}
+.exercise-img{
+width: 95%;
+}
+.exercise-animals{
+/* background-color: coral; */
+background-color: #e9bc5b;
+}
+.exercise-fish{
+background-color: rgb(231, 164, 231);
+}
+.exercise-fruit{
+background-color: rgb(137, 206, 194);
+}
+.exercise-birds {
+  background-color: rgb(233, 212, 173);
+}
+.exercise-vegetable{
+background-color: rgb(69, 236, 158);
+}
+.exercise-vegetable img{
+width: 68%;
+}
+.exercise-food{
+background-color: rgb(64, 156, 80);
+}
+.exercise-color{
+background-color: rgb(231, 200, 164);
+}
+.exercise-square{
+background-color: rgb(100, 201, 231);
+}
+.exercise-number{
+background-color: rgb(86, 143, 165);
+}
+.exercise-number img{
+width: 80%;
+}
+.exercise-body{
+background-color: rgb(231, 122, 122);
+}
+.exercise-transportation{
+background-color: rgb(202, 133, 223);
+}
+.exercise-job{
+background-color: rgb(247, 198, 108);
+}
+.exercise-home{
+background-color: rgb(153, 190, 204);
+}
+.exercise-reptile{
+  background-color: rgb(226, 207, 153);
+}
+.exercise-sea-animals{
+  background-color: rgb(37, 174, 224);
+}
+.exercise-insects{
+  background-color: rgb(76, 165, 120);
+}
+.exercise-naturalphenomena{
+  background-color: rgb(241, 152, 50);
+}
+.exercise-verbs{
+  background-color: rgb(188, 218, 58);
+}
+.exercise-clothes {
+  background-color: rgb(233, 222, 77);
+}
+.exercise-personalTools {
+  background-color: rgb(187, 60, 98);
+}

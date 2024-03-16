@@ -1,0 +1,163 @@
+/* .ctg{
+    background-color:beige;
+} */
+.ctg .card,
+.ctg .card:hover {
+    border-radius: 15px !important;
+    -webkit-border-radius: 15px !important;
+    -moz-border-radius: 15px !important;
+    -ms-border-radius: 15px !important;
+    -o-border-radius: 15px !important;
+}
+
+.ctg .card {
+    text-align: center;
+}
+
+.ctg .card img {
+    text-align: center;
+    width: 100%;
+    height: 220px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.ctg .card .card-body {
+    background-color: #565c95;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    /* color: white; */
+}
+
+.ctg .card .card-title {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+
+.ctg .category {
+    width: 100%;
+}
+
+.ctg .card-link {
+    text-decoration: none !important;
+}
+
+.ctg .category:hover {
+    box-shadow: 8px 8px 10px gray;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    color: black;
+    transition: box-shadow 0.5s;
+    -webkit-transition: box-shadow 0.5s;
+    -moz-transition: box-shadow 0.5s;
+    -ms-transition: box-shadow 0.5s;
+    -o-transition: box-shadow 0.5s;
+}
+
+.ctg .div-btn .home-btn {
+    border: none;
+    outline: none;
+    background-color: purple;
+    color: white;
+    padding: 8px 13px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.ctg .div-btn .home-btn:hover {
+    background-color: rgba(128, 0, 128, 0.656);
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+}
+
+.exercise-lion {
+    background-color: coral;
+}
+
+.exercise-fish {
+    background-color: rgb(231, 164, 231);
+}
+
+.exercise-fruit2 {
+    background-color: rgb(137, 206, 194);
+}
+
+.exercise-vegetable1 {
+    background-color: rgb(69, 236, 158);
+}
+
+.exercise-food {
+    background-color: rgb(64, 156, 80);
+}
+
+.exercise-colors {
+    background-color: rgb(231, 200, 164);
+}
+
+.exercise-star {
+    background-color: rgb(100, 201, 231);
+}
+
+.exercise-number {
+    background-color: rgb(86, 143, 165);
+}
+
+.exercise-number img {
+    width: 80%;
+}
+
+.exercise-body {
+    background-color: rgb(231, 122, 122);
+}
+
+.exercise-transportation {
+    background-color: rgb(202, 133, 223);
+}
+
+.exercise-job {
+    background-color: rgb(247, 198, 108);
+}
+
+.exercise-home {
+    background-color: rgb(153, 190, 204);
+}
+
+.exercise-reptile {
+    background-color: rgb(226, 207, 153);
+}
+
+.exercise-clothes {
+    background-color: rgb(233, 222, 77);
+}
+
+.exercise-personalTools {
+    background-color: rgb(187, 60, 98);
+}
+
+.exercise-sea-animals {
+    background-color: rgb(37, 174, 224);
+}
+
+.exercise-insects {
+    background-color: rgb(76, 165, 120);
+}
+
+.exercise-naturalPhenomena {
+    background-color: rgb(241, 152, 50);
+}
+
+.exercise-verbs {
+    background-color: rgb(188, 218, 58);
+}
+.main-panel {
+    position: absolute !important;
+    top: 61px;
+    right: 0px;
+}

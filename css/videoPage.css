@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+
+    background-image: linear-gradient(rgb(209, 155, 155), rgb(222, 222, 111), rgb(228, 139, 242));
+
+}
+
+@media (max-width:600px) {
+    .vid_sm_width{
+        margin: 60px;
+        text-align: center!important;
+    }
+}
+video{
+    border-radius: 20px;
+}
+.main-panel {
+    position: absolute !important;
+    top: 61px;
+    right: 0px;
+}
